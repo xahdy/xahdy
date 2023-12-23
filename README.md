@@ -9,15 +9,11 @@ Aqui estão algumas idéias para você começar:
 
 -->
 
-- 🌱 No momento estou estudando Java e Kotlin. 
-- :star2: Gosto de desenvolver para back-end, mas também busco fazer um APP para interagir com cada API que crio.
+- 🌱 No momento estou no mundo do Java, através do framework Quarkus. 
+- :star2: Meu foco é backend.
 - 💬 Pergunte-me sobre tecnologia, desenvolvimento, jogos, filmes e séries.
 - 📫 Como entrar em contato comigo: meu linkedin e meu e-mail estão no final da página.
 - ⚡ Curiosidade: Durante a pandemia desenvolvi e publiquei um jogo na Steam.
-
-### Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
 
 ### Contatos:
 
